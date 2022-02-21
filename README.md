@@ -1,1 +1,1 @@
-# Unlock-all-blooks-Unlock-in-Blooket
+go to unlockAllBlooksForever.js
