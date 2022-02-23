@@ -1,4 +1,4 @@
-Tutorial:First you go the unlockAllBlooksForever.js
+Tutorial:First you go the unlockAllBlooksForever.js,
 Copy the code.
 Go to Blooket, Go to Blooks.
 Ctrl + Shift + J,and paste the code.
